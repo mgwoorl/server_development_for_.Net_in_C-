@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "O7Iw3yKZvsZj9dHj1W/DYrn6T0UhGU5TfsriLT5P8yo=",
+  "Source": "Lab_3_1",
+  "BasePath": "_content/Lab_3_1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab_3_1\\wwwroot",
+      "Source": "Lab_3_1",
+      "ContentRoot": "D:\\c#_course_apps\\Lab_3_1\\Lab_3_1\\wwwroot\\",
+      "BasePath": "_content/Lab_3_1",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\c#_course_apps\\Lab_3_1\\Lab_3_1\\wwwroot\\Index.cshtml",
+      "SourceId": "Lab_3_1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\c#_course_apps\\Lab_3_1\\Lab_3_1\\wwwroot\\",
+      "BasePath": "_content/Lab_3_1",
+      "RelativePath": "Index#[.{fingerprint}]?.cshtml",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3dje3nka6m",
+      "Integrity": "h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "wwwroot\\Index.cshtml"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Index.3dje3nka6m.cshtml",
+      "AssetFile": "D:\\c#_course_apps\\Lab_3_1\\Lab_3_1\\wwwroot\\Index.cshtml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 09:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dje3nka6m"
+        },
+        {
+          "Name": "label",
+          "Value": "Index.cshtml"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw="
+        }
+      ]
+    },
+    {
+      "Route": "Index.cshtml",
+      "AssetFile": "D:\\c#_course_apps\\Lab_3_1\\Lab_3_1\\wwwroot\\Index.cshtml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 09:38:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw="
+        }
+      ]
+    }
+  ]
+}

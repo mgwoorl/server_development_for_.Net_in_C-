@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Index.3dje3nka6m.cshtml",
+      "AssetFile": "Index.cshtml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 09:38:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3dje3nka6m"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw="
+        },
+        {
+          "Name": "label",
+          "Value": "Index.cshtml"
+        }
+      ]
+    },
+    {
+      "Route": "Index.cshtml",
+      "AssetFile": "Index.cshtml",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1152"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 09:38:38 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h7gFNqsC9zk5BLnL80fyxI+nMER91UvMUxU2D/IJxzw="
+        }
+      ]
+    }
+  ]
+}
